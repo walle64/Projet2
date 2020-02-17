@@ -84,7 +84,7 @@ namespace Projet2
         {
             GrabFrame();
             ProcessFrame();
-            FindCircle();
+            //FindCircle();
         }
 
         private void ReleaseData()
