@@ -17,6 +17,7 @@ namespace Projet2
 {
     class ImageProcessing
     {
+        //TEST TES TEST
         private VideoCapture _capture = null;
         private bool CaptureInProgress;
         private bool RetreivedFrame = false;
